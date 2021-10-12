@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Страница о себе</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    	<p> Буренкова Полина Алексеевна</p>
+    	<align> Я живу в Сыктывкаре</align>
+       <div class="table-responsive">
+		<table class="table table-striped table-bordered">
+			<tr style="font-weight: bold;">
+				<th>Период контроля</th>
+				<th>Дисциплина</th>
+				<th>Вид контроля</th>
+				<th>Оценка</th>
+				<th>Дата сдачи</th>
+				<th>Учебный год</th>
+				<th>Компетенции</th>
+			</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Операционные системы и среды</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>13.01.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001694" class="competence">10,</a>
+			<a id="000001698" class="competence">ОК</a>
+			<a id="" class="competence">2,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Физика</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Отлично</a></td>
+				<td>22.01.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001692" class="competence">10,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001698" class="competence">2,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">3,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Элементы высшей математики</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Удовлетворительно</a></td>
+				<td>19.01.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001694" class="competence">1,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Архитектура аппаратных средств</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>16.01.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001693" class="competence">10,</a>
+			<a id="000001694" class="competence">ОК</a>
+			<a id="000001698" class="competence">2,</a>
+			<a id="000005118" class="competence">ОК</a>
+			<a id="000005119" class="competence">4,</a>
+			<a id="000005120" class="competence">ОК</a>
+			<a id="000005122" class="competence">5,</a>
+			<a id="000005123" class="competence">ОК</a>
+			<a id="" class="competence">9,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.2,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.3,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.4,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.6,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.7</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Русский язык и культура речи</td>
+			<td>Зачет (СПО)</td>
+							<td><a class="grade">Зачтено</a></td>
+				<td>07.11.2020</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001642" class="competence">ОК</a>
+			<a id="000001691" class="competence">10,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001694" class="competence">2,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Основы проектирования баз данных</td>
+			<td>Дифференцированный зачет (СПО)</td>
+							<td><a class="grade">Удовлетворительно</a></td>
+				<td>29.12.2020</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001691" class="competence">1,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001694" class="competence">2,</a>
+			<a id="000001698" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Безопасность жизнедеятельности</td>
+			<td>Дифференцированный зачет (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>31.12.2020</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001692" class="competence">10,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001694" class="competence">2,</a>
+			<a id="000001695" class="competence">ОК</a>
+			<a id="000001696" class="competence">3,</a>
+			<a id="000001697" class="competence">ОК</a>
+			<a id="000001698" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">6,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">7,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">8,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Первый семестр</td>
+			<td>Информационные технологии</td>
+			<td>Дифференцированный зачет (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>08.12.2020</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001693" class="competence">10,</a>
+			<a id="000001694" class="competence">ОК</a>
+			<a id="000001698" class="competence">2,</a>
+			<a id="000005117" class="competence">ОК</a>
+			<a id="000005118" class="competence">4,</a>
+			<a id="000005122" class="competence">ОК</a>
+			<a id="000005124" class="competence">5,</a>
+			<a id="000005125" class="competence">ОК</a>
+			<a id="000005126" class="competence">9,</a>
+			<a id="000005129" class="competence">ПК</a>
+			<a id="" class="competence">5.1,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.2,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.6,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">8.1,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">8.2,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">8.3,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">9.3</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Дискретная математика c элементами математической логики</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>22.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001693" class="competence">10,</a>
+			<a id="000001694" class="competence">ОК</a>
+			<a id="000001698" class="competence">2,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>История</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>16.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001691" class="competence">1,</a>
+			<a id="000001692" class="competence">ОК</a>
+			<a id="000001693" class="competence">2,</a>
+			<a id="000001694" class="competence">ОК</a>
+			<a id="000001695" class="competence">3,</a>
+			<a id="000001696" class="competence">ОК</a>
+			<a id="000001698" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">6,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">7,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Экономика организации</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>25.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001643" class="competence">ОК</a>
+			<a id="000001691" class="competence">10,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001694" class="competence">11,</a>
+			<a id="000001697" class="competence">ОК</a>
+			<a id="000001698" class="competence">2,</a>
+			<a id="000005117" class="competence">ОК</a>
+			<a id="000005123" class="competence">4,</a>
+			<a id="000005133" class="competence">ОК</a>
+			<a id="000005135" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">8,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.1,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.7,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">9.7,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">9.9</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Основы философии</td>
+			<td>Экзамен (СПО)</td>
+							<td><a class="grade">Хорошо</a></td>
+				<td>19.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001691" class="competence">1,</a>
+			<a id="000001692" class="competence">ОК</a>
+			<a id="000001693" class="competence">2,</a>
+			<a id="000001695" class="competence">ОК</a>
+			<a id="" class="competence">3,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">6</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Основы проектной деятельности</td>
+			<td>Зачет (СПО)</td>
+							<td><a class="grade">Зачтено</a></td>
+				<td>27.05.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001642" class="competence">ОК</a>
+			<a id="000001643" class="competence">10,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001692" class="competence">11,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000005117" class="competence">2,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">3,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.1</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Физическая культура</td>
+			<td>Зачет (СПО)</td>
+							<td><a class="grade">Зачтено</a></td>
+				<td>09.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001692" class="competence">ОК</a>
+			<a id="000001693" class="competence">3,</a>
+			<a id="000001695" class="competence">ОК</a>
+			<a id="000001696" class="competence">4,</a>
+			<a id="000001697" class="competence">ОК</a>
+			<a id="" class="competence">6,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">7,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">8</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Иностранный язык в профессиональной деятельности</td>
+			<td>Зачет (СПО)</td>
+							<td><a class="grade">Зачтено</a></td>
+				<td>14.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001695" class="competence">10,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">6</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Основы политологии и социологии</td>
+			<td>Зачет (СПО)</td>
+							<td><a class="grade">Зачтено</a></td>
+				<td>03.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001691" class="competence">1,</a>
+			<a id="000001692" class="competence">ОК</a>
+			<a id="000001693" class="competence">2,</a>
+			<a id="000001695" class="competence">ОК</a>
+			<a id="" class="competence">3,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">4,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">6</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Проектирование и дизайн информационных систем</td>
+			<td>Дифференцированный зачет (СПО)</td>
+							<td><a class="grade">Удовлетворительно</a></td>
+				<td>11.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="000001690" class="competence">ОК</a>
+			<a id="000001642" class="competence">1,</a>
+			<a id="000001691" class="competence">ОК</a>
+			<a id="000001692" class="competence">10,</a>
+			<a id="000001693" class="competence">ОК</a>
+			<a id="000001694" class="competence">2,</a>
+			<a id="000001698" class="competence">ОК</a>
+			<a id="000005117" class="competence">3,</a>
+			<a id="000005118" class="competence">ОК</a>
+			<a id="000005122" class="competence">4,</a>
+			<a id="000005123" class="competence">ОК</a>
+			<a id="" class="competence">5,</a>
+			<a id="" class="competence">ОК</a>
+			<a id="" class="competence">9,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.1,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.2,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.6,</a>
+			<a id="" class="competence">ПК</a>
+			<a id="" class="competence">5.7</a>
+			</td>
+					</tr>
+		<tr>
+			<td>Второй семестр</td>
+			<td>Учебная практика (3 недели)</td>
+			<td>Дифференцированный зачет (СПО)</td>
+							<td><a class="grade">Удовлетворительно</a></td>
+				<td>10.06.2021</td>
+				<td>2020 - 2021</td>
+						<td>
+			<a id="" class="competence"></a>
+			</td>
+					</tr>
+	</table>
+</div>
+<figure>
+	<img src="">
+	<figcaption></figcaption>
+</figure>
+<meter value="1444"min="0" max="15000S"></meter>  
+<h1> интересы</h1>
+<ul> 
+	<li> Футбол</li>
+	
+</ul>
+<h6> Предметы</h6>
+<ol>
+	<li>Проектирование и дизайн информационных систем </li>
+	<li>Основы политологии и социологии</li>
+	<li>Иностранный язык в профессиональной деятельности</li>
+    <li>Физическая культура</li>
+
+</ol>
+    </body>
+
+</html>
